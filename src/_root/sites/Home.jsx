@@ -63,7 +63,7 @@ export default function Home() {
       <footer className="border-t bg-background py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-muted-foreground">
-            © {new Date().getFullYear()} Roamly. Made by Pramoda S R and Nithin
+            © {new Date().getFullYear()} Roamly. Made by Gaurav Das and Nithin
             P. All rights reserved.
           </p>
         </div>
